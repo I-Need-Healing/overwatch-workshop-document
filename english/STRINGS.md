@@ -606,4 +606,12 @@
 - `WINNERS `
 - `WINS `
 - `WORSE `
- `
+- `WOW`
+- `YES`
+- `YOU`
+- `YOU LOSE`
+- `YOU WIN`
+- `ZONE`
+- `ZONES`
+- `¡{0}!`
+- `¿{0}?`
