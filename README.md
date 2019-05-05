@@ -1,6 +1,6 @@
 # overwatch-workshop-document
 
-This document made by OCR.
+This document made by using OCR tech.
 
 
 Some parts of the document may have incomplete descriptions or incorrect letters.
