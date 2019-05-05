@@ -1,6 +1,7 @@
 # overwatch-workshop-document
 
-This is a document made by OCR.Some parts of the document may have incomplete descriptions or incorrect letters.Feel free to create PR if you find something is incorrect.
+This is a document made by OCR.Some parts of the document may have incomplete descriptions or incorrect letters.
+Feel free to create PR if you want fix something incorrect.
 
 
 - [English](english/)
