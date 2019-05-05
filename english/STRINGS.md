@@ -352,7 +352,7 @@
 - `LOSERS `
 - `LOSS `
 - `LOSSES `
-- ` `
+- `MAX`
 - `MILD `
 - `MIN `
 - `MISSION `
